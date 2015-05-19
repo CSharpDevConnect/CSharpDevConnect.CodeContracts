@@ -1,0 +1,8 @@
+# Folders
+bin/
+obj/
+
+# Files
+*.suo
+*.Cache
+*.user
